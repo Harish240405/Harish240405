@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Harish Nimaje 
 
-<!--
-**Harish240405/Harish240405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Electronics and Communication Engineering (ECE) Student  
+ Interested in Electric Vehicles and Embedded Systems  
+ Exploring MATLAB, Data Analytics, and Microcontrollers  
 
-Here are some ideas to get you started:
+##  About Me
+-  Interested in developing innovative engineering solutions.
+-  Working on regenerative braking systems for electric vehicles.
+-  Learning embedded systems and hardware–software integration.
+-  Developing skills in data analytics and Excel.
+-  Always learning new technologies and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Tools
+- MATLAB / Simulink
+- Embedded Systems
+- Data analyst
+- Microsoft Excel
+- Git and GitHub
+
+##  Featured Project
+**Development of an Efficient Regenerative Braking System for Electric Vehicles**
+
+Exploring ways to recover braking energy and improve electric vehicle energy efficiency.
+
+##  Connect With Me
+- GitHub: https://github.com/Harish240405
+
+---
+Thanks for visiting my profile!
