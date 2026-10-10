@@ -1,30 +1,35 @@
 # Hi, I'm Harish Nimaje 
 
- Electronics and Communication Engineering (ECE) Student  
- Interested in Electric Vehicles and Embedded Systems  
- Exploring MATLAB, Data Analytics, and Microcontrollers  
+### Aspiring Data Analyst | Excel | SQL | Python | Power BI
+
+ Electronics and Communication Engineering Student  
+ Interested in data analysis, business intelligence, and data visualization  
+ Continuously learning how to turn raw data into meaningful insights.
 
 ##  About Me
--  Interested in developing innovative engineering solutions.
--  Working on regenerative braking systems for electric vehicles.
--  Learning embedded systems and hardware–software integration.
--  Developing skills in data analytics and Excel.
--  Always learning new technologies and improving my coding skills.
+-  Interested in analyzing data and identifying useful trends.
+-  Building skills in Excel, data cleaning, and dashboard creation.
+- Learning Python and SQL for data analysis.
+-  Exploring Power BI for interactive visualizations.
+-  Looking for opportunities to apply analytical skills to real-world problems.
 
-##  Skills & Tools
-- MATLAB / Simulink
-- Embedded Systems
-- Data analyst
+##  Skills
 - Microsoft Excel
-- Git and GitHub
+- Data Cleaning and Data Analysis
+- PivotTables and Lookup Functions
+- Dashboard Creation
+- SQL and Python *(learning)*
+- Power BI *(learning)*
 
-##  Featured Project
-**Development of an Efficient Regenerative Braking System for Electric Vehicles**
+##  Featured Projects
+Projects will be added as I build my portfolio.
 
-Exploring ways to recover braking energy and improve electric vehicle energy efficiency.
+- **Excel Data Analysis Dashboard** — Analyze a dataset and present key metrics.
+- **SQL Data Analysis** — Query datasets to answer business questions.
+- **Power BI Dashboard** — Build interactive charts and reports using real data.
 
-##  Connect With Me
-- GitHub: https://github.com/Harish240405
+##  Career Goal
+To grow as a Data Analyst by developing strong analytical, technical, and problem-solving skills.
 
 ---
-Thanks for visiting my profile!
+ Thanks for visiting my profile!
